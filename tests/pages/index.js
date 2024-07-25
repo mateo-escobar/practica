@@ -1,0 +1,1 @@
+import {GooglePage} from '../../pages/google.page';
